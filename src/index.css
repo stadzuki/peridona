@@ -73,11 +73,11 @@ li {
 	bottom: 15px;
 }
 
-.iteeem li {
+.iteeem div {
 	padding-right: 25px;
 }
 
-.iteeem li a{
+.iteeem div a{
 	color: #131f4f;
 	text-decoration: none;
 }
